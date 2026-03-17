@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Royal Purple Silk Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Premium handcrafted silk saree with golden zari border for festive occasions.",
+    "updated_by": "Admin",
+    "price": 4999,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Designer Banarasi Saree",
+    "image": "/uploads/871a99bd-67fa-4fa9-979e-bbddd4a6885e.png",
+    "description": "Elegant Banarasi saree with rich texture and traditional weaving.",
+    "updated_by": "Admin",
+    "price": 6999,
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "title": "Luxury Bridal Lehenga",
+    "image": "/uploads/IMG_6442copy.jpg",
+    "description": "Premium bridal lehenga with heavy embroidery and stone work.",
+    "updated_by": "Admin",
+    "price": 15999,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "title": "Men's Royal Kurta Set",
+    "image": "/uploads/272f87e0-eea8-4269-8a3a-997c7ccd17d1.png",
+    "description": "Traditional kurta set crafted with breathable cotton fabric.",
+    "updated_by": "Admin",
+    "price": 2499,
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "title": "Elegant Party Wear Gown",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Modern party wear gown designed for evening celebrations.",
+    "updated_by": "Admin",
+    "price": 5499,
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "title": "Cotton Printed Kurti",
+    "image": "/uploads/IMG_6442copy.jpg",
+    "description": "Soft cotton kurti with floral print for daily wear.",
+    "updated_by": "Admin",
+    "price": 1299,
+    "rating": 4.2
+  },
+  {
+    "id": 7,
+    "title": "Royal Indo-Western Dress",
+    "image": "/uploads/IMG_6442copy.jpg",
+    "description": "Fusion dress combining ethnic elegance with western style.",
+    "updated_by": "Admin",
+    "price": 3799,
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "title": "Premium Men's Blazer",
+    "image": "/uploads/272f87e0-eea8-4269-8a3a-997c7ccd17d1.png",
+    "description": "Stylish slim-fit blazer for formal and wedding events.",
+    "updated_by": "Admin",
+    "price": 5999,
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "title": "Designer Anarkali Suit",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Graceful Anarkali suit with detailed embroidery.",
+    "updated_by": "Admin",
+    "price": 4499,
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "title": "Women's Casual Top",
+    "image": "/uploads/IMG_6442copy.jpg",
+    "description": "Comfortable casual top for everyday style.",
+    "updated_by": "Admin",
+    "price": 899,
+    "rating": 4.1
+  },
+  {
+    "id": 11,
+    "title": "Festive Sharara Set",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Beautiful sharara set for festive celebrations.",
+    "updated_by": "Admin",
+    "price": 5299,
+    "rating": 4.8
+  },
+  {
+    "id": 12,
+    "title": "Classic White Shirt",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Premium cotton white shirt for formal occasions.",
+    "updated_by": "Admin",
+    "price": 1499,
+    "rating": 4.3
+  },
+  {
+    "id": 13,
+    "title": "Royal Velvet Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Luxurious velvet saree perfect for winter weddings.",
+    "updated_by": "Admin",
+    "price": 7999,
+    "rating": 4.9
+  },
+  {
+    "id": 14,
+    "title": "Designer Crop Top Set",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Stylish crop top set for modern festive looks.",
+    "updated_by": "Admin",
+    "price": 3499,
+    "rating": 4.5
+  },
+  {
+    "id": 15,
+    "title": "Men's Ethnic Jacket",
+    "image": "/uploads/272f87e0-eea8-4269-8a3a-997c7ccd17d1.png",
+    "description": "Traditional ethnic jacket for weddings and parties.",
+    "updated_by": "Admin",
+    "price": 2999,
+    "rating": 4.4
+  },
+  {
+    "id": 16,
+    "title": "Premium Linen Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Lightweight linen saree for summer elegance.",
+    "updated_by": "Admin",
+    "price": 3899,
+    "rating": 4.6
+  },
+  {
+    "id": 17,
+    "title": "Luxury Designer Kurti",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Exclusive designer kurti with premium fabric.",
+    "updated_by": "Admin",
+    "price": 2199,
+    "rating": 4.3
+  },
+  {
+    "id": 18,
+    "title": "Royal Wedding Sherwani",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Elegant sherwani crafted for grand wedding ceremonies.",
+    "updated_by": "Admin",
+    "price": 12999,
+    "rating": 4.9
+  },
+  {
+    "id": 19,
+    "title": "Women's Designer Jacket",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Trendy designer jacket for winter fashion.",
+    "updated_by": "Admin",
+    "price": 4599,
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "title": "Royal Evening Dress",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Elegant evening dress designed for luxury events.",
+    "updated_by": "Admin",
+    "price": 7499,
+    "rating": 4.7
+  },
+  {
+    "id": 21,
+    "title": "Premium Silk Kurta",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Elegant silk kurta designed for festive celebrations.",
+    "updated_by": "Admin",
+    "price": 3199,
+    "rating": 4.5
+  },
+  {
+    "id": 22,
+    "title": "Designer Bridal Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Exclusive bridal saree with intricate embroidery.",
+    "updated_by": "Admin",
+    "price": 18999,
+    "rating": 4.9
+  },
+  {
+    "id": 23,
+    "title": "Men's Wedding Suit",
+    "image": "/uploads/272f87e0-eea8-4269-8a3a-997c7ccd17d1.png",
+    "description": "Premium tailored wedding suit for special occasions.",
+    "updated_by": "Admin",
+    "price": 9999,
+    "rating": 4.6
+  },
+  {
+    "id": 24,
+    "title": "Floral Printed Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Lightweight saree with elegant floral design.",
+    "updated_by": "Admin",
+    "price": 2599,
+    "rating": 4.3
+  },
+  {
+    "id": 25,
+    "title": "Designer Palazzo Set",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Stylish palazzo set for modern ethnic look.",
+    "updated_by": "Admin",
+    "price": 3999,
+    "rating": 4.4
+  },
+  {
+    "id": 26,
+    "title": "Royal Velvet Lehenga",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Luxurious velvet lehenga for grand weddings.",
+    "updated_by": "Admin",
+    "price": 17999,
+    "rating": 4.8
+  },
+  {
+    "id": 27,
+    "title": "Men's Casual Shirt",
+    "image": "/uploads/272f87e0-eea8-4269-8a3a-997c7ccd17d1.png",
+    "description": "Comfortable cotton casual shirt for daily wear.",
+    "updated_by": "Admin",
+    "price": 1199,
+    "rating": 4.2
+  },
+  {
+    "id": 28,
+    "title": "Luxury Party Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Elegant party saree crafted with premium fabric.",
+    "updated_by": "Admin",
+    "price": 6499,
+    "rating": 4.7
+  },
+  {
+    "id": 29,
+    "title": "Traditional Pathani Suit",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Classic Pathani suit for festive and wedding events.",
+    "updated_by": "Admin",
+    "price": 3499,
+    "rating": 4.5
+  },
+  {
+    "id": 30,
+    "title": "Designer Net Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Trendy net saree with delicate embroidery.",
+    "updated_by": "Admin",
+    "price": 5599,
+    "rating": 4.6
+  },
+  {
+    "id": 31,
+    "title": "Elegant Georgette Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Soft georgette saree perfect for parties and evening events.",
+    "updated_by": "Admin",
+    "price": 4299,
+    "rating": 4.5
+  },
+  {
+    "id": 32,
+    "title": "Men's Festive Kurta",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Traditional festive kurta with elegant embroidery.",
+    "updated_by": "Admin",
+    "price": 2799,
+    "rating": 4.4
+  },
+  {
+    "id": 33,
+    "title": "Premium Designer Lehenga",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Luxury lehenga designed for grand wedding celebrations.",
+    "updated_by": "Admin",
+    "price": 21999,
+    "rating": 4.9
+  },
+  {
+    "id": 34,
+    "title": "Women's Ethnic Skirt",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Colorful ethnic skirt crafted with soft cotton fabric.",
+    "updated_by": "Admin",
+    "price": 1899,
+    "rating": 4.3
+  },
+  {
+    "id": 35,
+    "title": "Luxury Men's Sherwani",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Premium sherwani with intricate hand embroidery.",
+    "updated_by": "Admin",
+    "price": 15999,
+    "rating": 4.8
+  },
+  {
+    "id": 36,
+    "title": "Designer Silk Gown",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Elegant silk gown for formal evening occasions.",
+    "updated_by": "Admin",
+    "price": 7999,
+    "rating": 4.6
+  },
+  {
+    "id": 37,
+    "title": "Classic Men's Waistcoat",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Formal waistcoat designed for weddings and events.",
+    "updated_by": "Admin",
+    "price": 3499,
+    "rating": 4.4
+  },
+  {
+    "id": 38,
+    "title": "Festive Chikankari Kurti",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Handcrafted chikankari kurti with traditional design.",
+    "updated_by": "Admin",
+    "price": 2399,
+    "rating": 4.5
+  },
+  {
+    "id": 39,
+    "title": "Royal Designer Saree",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Premium designer saree with elegant border work.",
+    "updated_by": "Admin",
+    "price": 9999,
+    "rating": 4.9
+  },
+  {
+    "id": 40,
+    "title": "Men's Formal Blazer",
+    "image": "/uploads/aa2fbff8-e2c8-4e17-a2b1-688fd265feae.png",
+    "description": "Slim-fit formal blazer perfect for corporate events.",
+    "updated_by": "Admin",
+    "price": 6999,
+    "rating": 4.6
+  }
+]

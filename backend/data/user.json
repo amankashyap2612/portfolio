@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "email": "amit.sharma@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9876543210",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "email": "priya.verma@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9123456780",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Singh",
+    "email": "rahul.singh@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9988776655",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 4,
+    "name": "Neha Kapoor",
+    "email": "neha.kapoor@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9090909090",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 5,
+    "name": "Rohit Mehta",
+    "email": "rohit.mehta@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9871234560",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9012345678",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Yadav",
+    "email": "vikram.yadav@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "8899776655",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 8,
+    "name": "Anjali Gupta",
+    "email": "anjali.gupta@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9765432109",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 9,
+    "name": "Karan Malhotra",
+    "email": "karan.malhotra@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9345678901",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 10,
+    "name": "Pooja Nair",
+    "email": "pooja.nair@gmail.com",
+    "password": "$2b$10$EIX9h9uC7R6J8s3Y0Qx8dO7R7v1lZQJm8tq7k1Hn5uC2Vw9xYzAbC",
+    "phone": "9001122334",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 11,
+    "name": "Aman Kashyap",
+    "email": "amankashyap2312@gmail.com",
+    "password": "123456",
+    "phone": "9001122335",
+    "updated_by": "Admin"
+  },
+  {
+    "id": 1772538378461,
+    "name": "Aman Kashyap",
+    "email": "salim@cftedu.in",
+    "password": "123456",
+    "phone": "08130764614",
+    "updated_by": "Admin"
+  }
+]
