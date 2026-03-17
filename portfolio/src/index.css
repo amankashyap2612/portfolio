@@ -1,0 +1,271 @@
+      :root {
+            --primary-color: #8750f7;
+            --bg-dark: #0f0715;
+            --card-bg: #140c1c;
+            --input-bg: #05010a;
+            --text-gray: #d9d9d9;
+            --gradient: linear-gradient(90deg, #8750f7 0%, #2a1454 100%);
+        }
+
+        body {
+            background-color: #0f0715 !important;
+            color: #ffffff !important;
+            font-family: 'Sora', sans-serif;
+            scroll-behavior: smooth;
+            overflow-x: hidden;
+        }
+
+        .text-gradient {
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        section { padding: 80px 0; }
+
+        /* Navbar */
+        .navbar { padding: 20px 0; }
+        .nav-link { color: #fff !important; font-weight: 500; margin: 0 15px; }
+        .nav-link:hover { color: var(--primary-color) !important; }
+
+        /* Buttons */
+        .btn-gradient {
+            background: var(--gradient);
+            color: white; border: none;
+            padding: 12px 35px; border-radius: 50px;
+            font-weight: 600; transition: 0.3s;
+            text-decoration: none; display: inline-block;
+        }
+        .btn-gradient:hover { transform: translateY(-3px); color: white; opacity: 0.9; }
+
+        /* Hero */
+        .hero-section { padding: 100px 0; }
+        .hero-title { font-size: 4rem; font-weight: 700; line-height: 1.2; }
+        .hero-img-box {
+            border: 2px solid #2a1454; border-radius: 30px;
+            padding: 15px; transform: rotate(3deg); transition: 0.5s;
+        }
+        .hero-img-box:hover { transform: rotate(0deg); border-color: var(--primary-color); }
+        .stat-box h2 { font-size: 3.5rem; font-weight: 700; }
+
+        /* --- My Quality Services (image_424603.png style) --- */
+        .service-list-container { margin-top: 50px; }
+        .service-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 40px 0;
+            border-bottom: 1px solid #2a1454;
+            transition: 0.4s;
+            cursor: pointer;
+            text-decoration: none;
+            color: white;
+        }
+        .service-row:hover { background: var(--gradient); }
+        .service-row:hover .service-arrow { transform: rotate(-45deg); }
+        .service-number { font-size: 1.5rem; font-weight: 700; width: 50px; }
+        .service-title { font-size: 2.2rem; font-weight: 700; flex: 1; margin-left: 20px; }
+        .service-desc { flex: 2; color: var(--text-gray); padding: 0 30px; font-size: 0.95rem; }
+        .service-arrow { font-size: 1.5rem; transition: 0.4s; }
+
+        /* --- My Recent Works (image_42a3a3.png style) --- */
+        .work-filter-nav { 
+            background-color: #000; 
+            padding: 8px; 
+            border-radius: 50px;
+            border: 1px solid #2a1454;
+        }
+        .filter-btn {
+            background: transparent;
+            border: none;
+            color: white;
+            padding: 10px 30px;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: 0.4s;
+        }
+        .filter-btn.active { background: var(--gradient); }
+        
+        .work-card {
+            background: var(--card-bg);
+            border-radius: 30px;
+            overflow: hidden;
+            padding: 20px;
+            transition: 0.4s;
+            border: 1px solid transparent;
+            transition: all .4s ease;
+        }
+        .work-card:hover{
+          transform: scale(1.05);
+          box-shadow:0 10px 40px rgba(135,80,247,.4);
+          }
+        .work-img-container { border-radius: 20px; overflow: hidden; }
+        .work-card img{
+          width:100%;
+          height:200px;
+          object-fit:cover;
+          border-radius:15px;
+          }
+
+        /* Skills */
+        .skill-card {
+				background: var(--card-bg);
+				border-radius: 20px;
+				padding: 30px;
+				text-align: center;
+				transition: 0.4s;
+				border: 1px solid #2a1454;
+
+				height: 180px;              /* same height */
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+			}
+
+			.skill-card img{
+			height:45px;
+			margin-bottom:10px;
+			}
+      .skill-card{
+        transition: all 0.4s ease;
+        }
+
+        .skill-card:hover{
+        transform: translateY(-10px);
+        border-color:#8750f7;
+        }
+
+        /* Contact & Form */
+        .contact-box{
+            background:#140c1c;
+            padding:40px;
+            border-radius:30px;
+        }
+
+        .form-control{
+            background:#05010a;
+            border:1px solid #2a1454;
+            color:white;
+            padding:15px;
+            border-radius:10px;
+        }
+
+        .form-control::placeholder{
+        color:#888;
+        }
+
+        .form-control:focus{
+        background:#05010a;
+        border-color:#8750f7;
+        box-shadow:none;
+        color:white;
+        }
+
+        .info-icon{
+        width:50px;
+        height:50px;
+        background:linear-gradient(90deg,#8750f7,#2a1454);
+        border-radius:50%;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        margin-right:20px;
+        font-size:18px;
+        }
+		
+		/* NEW: Blog Section */
+        .blog-card {
+            background: var(--card-bg); border-radius: 20px;
+            overflow: hidden; border: 1px solid #2a1454; transition: 0.3s;
+        }
+        .blog-card:hover { transform: scale(1.02); }
+        .blog-img { height: 200px; background: #2a1454; display: flex; align-items: center; justify-content: center; color: var(--text-gray); }
+        .blog-content { padding: 25px; }
+
+        footer { padding: 50px 0; border-top: 1px solid #2a1454; text-align: center; color: var(--text-gray); }
+		
+		
+		/* Resume Section Styles (Matched to image_4241ce.png) */
+        .resume-card {
+            background-color: var(--card-bg);
+            padding: 30px;
+            border-radius: 20px;
+            border: 1px solid transparent;
+            transition: all 0.4s ease;
+            position: relative;
+        }
+
+        .resume-card:hover {
+            background: var(--gradient);
+            transform: translateY(-5px);
+        }
+
+        .resume-date {
+            color: var(--primary-color);
+            font-weight: 700;
+            font-size: 1.1rem;
+            display: block;
+            margin-bottom: 10px;
+            transition: 0.4s;
+        }
+
+        .resume-title {
+            font-weight: 700;
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+        }
+
+        .resume-location {
+            color: var(--text-gray);
+            margin-bottom: 0;
+            font-size: 0.9rem;
+        }
+
+        /* Hover states for text inside card */
+        .resume-card:hover .resume-date,
+        .resume-card:hover .resume-location {
+            color: #ffffff;
+        }
+        
+        /* Spacing utility */
+        .py-100 { padding: 100px 0; }
+
+
+        html{
+        scroll-behavior: smooth;
+        }
+
+        /* case study */
+
+        #case-study img{
+        transition:0.4s;
+        }
+
+        #case-study img:hover{
+        transform:scale(1.05);
+        }
+        /* slick slider spacing fix */
+
+        .slick-slide{
+        padding:15px;
+        }
+
+        .slick-list{
+        margin:0 -15px;
+        }
+        .slick-prev:before,
+        .slick-next:before{
+        color:#8750f7;
+        font-size:30px;
+        }
+
+        .stat-box h2{
+        font-size:3rem;
+        font-weight:700;
+        color:#fff;
+        }
+
+        .stat-box p{
+        color:#d9d9d9;
+        }
