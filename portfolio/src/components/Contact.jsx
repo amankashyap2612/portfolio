@@ -41,7 +41,7 @@ function Contact() {
 
     try {
       // API Call
-      await axios.post("http://localhost:3001/api/contact", form);
+      await axios.post("https://gymcoachcrm.com/api/portfilo/contact", form);
 
       // ✨ ATTRACTIVE SUCCESS ALERT
       Swal.fire({

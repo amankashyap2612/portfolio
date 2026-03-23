@@ -184,7 +184,7 @@ app.post("/api/contact", async (req, res) => {
       service: "gmail",
       auth: {
         user: "amankashyap2312@gmail.com",
-        pass: "qweypawxvylywekp"
+        pass: ""
       }
     });
 

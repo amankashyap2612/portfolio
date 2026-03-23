@@ -6,46 +6,46 @@ function Works() {
 
   const projects = [
     {
-      title: "Indian Army Veterans Portal",
+      title: "Deeba Dies & Tools",
       category: "web",
-      img: "https://picsum.photos/600/400?1",
-      link: "https://indianarmyveterans.gov.in",
-      desc: "CodeIgniter 4 based CRM system for managing veteran services"
+      img: "/images/deeba.png",
+      link: "https://erp.deebadies.com/login",
+      desc: "Assign dies to workers and track progress efficiently with automated status updates"
     },
     {
-      title: "EZE Jobs Platform",
+      title: "VSERVE Real State",
       category: "web",
-      img: "https://picsum.photos/600/400?2",
-      link: "https://ezejobs.vetab.in",
-      desc: "Job search platform connecting job seekers with employers"
+      img: "/images/assetx.png",
+      link: "https://vserverealestate.com",
+      desc: "A modern platform for buying, selling, and investing in properties across India and Dubai. "
     },
     {
       title: "CFT Education LMS",
       category: "web",
-      img: "https://picsum.photos/600/400?3",
+      img: "/images/cft.png",
       link: "https://cftedu.in",
       desc: "Learning management system for course management and assessments"
     },
     {
-      title: "Reeva Developers MLM",
+      title: "Digilearner",
       category: "web",
-      img: "https://picsum.photos/600/400?4",
-      link: "https://reevadeveloperspvtltd.com",
-      desc: "MLM platform with sales tracking and property booking"
+      img: "/images/digilearner.png",
+      link: "https://digilearner.in/",
+      desc: "A digital platform for publishing and delivering educational books and learning content."
     },
     {
       title: "Aadya Global Healthcare CRM",
       category: "crm",
-      img: "https://picsum.photos/600/400?5",
+      img: "/images/aghc.png",
       link: "https://aadyaglobal.com",
       desc: "Medical tourism CRM for managing clients and operations"
     },
     {
-      title: "IGNOU Billing Portal",
+      title: "UBadmit",
       category: "web",
-      img: "https://picsum.photos/600/400?6",
-      link: "https://testsrv.janmitr.com/ignou_billing",
-      desc: "Automated billing system for IGNOU students and administration"
+      img: "/images/ubadmit.png",
+      link: "https://ubadmit.com/",
+      desc: "Making Your Study Abroad Dream a Smooth Reality"
     }
   ];
 
