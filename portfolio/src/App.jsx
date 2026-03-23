@@ -45,7 +45,7 @@ function App() {
             <About/>
             <Services/>
             <Works/>
-            {/* <CaseStudy/> */}
+            <CaseStudy/>
             <Skills/>
             <Resume/>
             {/* <Blog/> */}

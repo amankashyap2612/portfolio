@@ -82,7 +82,7 @@ function Hero() {
           <div className="col-md-3 stat-box">
 
             <h2>
-              <CountUp end={8} duration={2} />+
+              <CountUp end={12} duration={2} />+
             </h2>
 
             <p>Projects Completed</p>
