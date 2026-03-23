@@ -5,14 +5,7 @@ function CaseStudy() {
 
 const projects = [
 
-{
-id:1,
-title:"Indian Army Veterans Portal",
-img:"https://picsum.photos/800/500?1",
-desc:"CRM system for managing ex-servicemen services",
-tech:"CodeIgniter 4 • MySQL",
-link:"https://indianarmyveterans.gov.in"
-},
+  
 
 {
 id:2,
