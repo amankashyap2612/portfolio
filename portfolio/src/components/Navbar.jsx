@@ -3,7 +3,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg">
       <div className="container">
 
-        <a className="navbar-brand text-white fw-bold" href="#">Aman</a>
+        <a className="navbar-brand text-white fw-bold" href="#"><img src="images/logo.png" width={100} alt="" /></a>
 
         <button
           className="navbar-toggler border-0 text-white"
