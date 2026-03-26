@@ -36,7 +36,7 @@ function About() {
           </p>
 
           {/* 🔥 CTA BUTTON */}
-          <div className="text-center mt-4">
+          {/* <div className="text-center mt-4">
             <a 
               href="https://wa.me/918700435202" 
               target="_blank"
@@ -46,7 +46,7 @@ function About() {
               <i className="fa-brands fa-whatsapp"></i>
               Hire Me 
             </a>
-          </div>
+          </div> */}
 
         </div>
 

@@ -2,30 +2,31 @@ import CountUp from "react-countup";
 
 function Hero() {
   return (
+    <>
     <section className="hero-section">
 
       <div className="container">
 
         <div className="row align-items-center">
 
-          <div className="col-lg-6" >
+          <div className="col-lg-8" >
 
-            <h5 className="fw-bold mb-3">I am Aman Kashyap</h5>
+            <h5 className="fw-bold mb-3 text-gradient">PHP Developer</h5>
 
-            <h1 className="hero-title">
-              PHP Developer + <br />
-              <span className="text-gradient">
-                Laravel & CodeIgniter Expert
-              </span>
-            </h1>
+           <h1 className="hero-title">
+            Hi, I'm Aman Kashyap <br />
+            <span className="text-gradient">
+              Laravel, CodeIgniter & React Specialist
+            </span>
+          </h1>
 
-            <p className="my-4 text-secondary lead">
-              PHP Developer with 2+ years experience in Laravel, CodeIgniter and React.
-              I build scalable CRM systems, LMS platforms and enterprise web applications.
-            </p>
+           <p className="my-4 text-secondary lead">
+            I build scalable CRM, MLM and business applications that solve real-world problems.  
+            3+ years of experience delivering high-performance web solutions.
+          </p>
 
             <div className="d-flex align-items-center gap-3">
-
+              
               <a
                 href="/AMAN_CV.pdf"
                 download
@@ -37,9 +38,9 @@ function Hero() {
 
               <div className="d-flex gap-3 ms-3">
 
-                <a href="#" className="text-white">
+                {/* <a href="#" className="text-white">
                   <i className="fab fa-twitter"></i>
-                </a>
+                </a> */}
 
                 <a
                   href="https://github.com/amankashyap2612"
@@ -55,6 +56,14 @@ function Hero() {
                     rel="noopener noreferrer"
                 >
                     <i className="fab fa-linkedin"></i>
+                </a>
+                <a 
+                    href="https://wa.me/918700435202" 
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-white"
+                  >
+                  <i className="fa-brands fa-whatsapp"></i> 
                 </a>
 
               </div>
@@ -114,6 +123,7 @@ function Hero() {
       </div>
 
     </section>
+    </>
   );
 }
 

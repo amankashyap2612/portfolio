@@ -55,8 +55,30 @@ function Works() {
       : projects.filter((p) => p.category === filter);
 
   return (
+    
     <section id="works">
+      <style>{`
+        .work-img-container{
+          width: 100%;
+          height: 200px;
+          overflow: hidden;
+          border-radius: 15px;
+        }
 
+        .work-img-container img{
+          width: 100%;
+          height: 100%;
+          object-fit: inherit; /* 🔥 main fix */
+        }
+
+        .work-card{
+          transition:0.3s;
+        }
+
+        .work-card:hover img{
+          transform: scale(1.05);
+        }
+      `}</style>
       <div className="container">
 
         <div className="text-center mb-5">
